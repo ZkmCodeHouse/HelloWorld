@@ -1,0 +1,10 @@
+G:\高级班VIP\TaskApp\LotteryTask\bin\Debug\LotteryTask.exe.config
+G:\高级班VIP\TaskApp\LotteryTask\bin\Debug\LotteryTask.exe
+G:\高级班VIP\TaskApp\LotteryTask\bin\Debug\LotteryTask.pdb
+G:\高级班VIP\TaskApp\LotteryTask\obj\Debug\LotteryTask.frmSQQ.resources
+G:\高级班VIP\TaskApp\LotteryTask\obj\Debug\LotteryTask.Properties.Resources.resources
+G:\高级班VIP\TaskApp\LotteryTask\obj\Debug\LotteryTask.csproj.GenerateResource.cache
+G:\高级班VIP\TaskApp\LotteryTask\obj\Debug\LotteryTask.csproj.CoreCompileInputs.cache
+G:\高级班VIP\TaskApp\LotteryTask\obj\Debug\LotteryTask.exe
+G:\高级班VIP\TaskApp\LotteryTask\obj\Debug\LotteryTask.pdb
+G:\高级班VIP\TaskApp\LotteryTask\obj\Debug\LotteryTask.csprojAssemblyReference.cache

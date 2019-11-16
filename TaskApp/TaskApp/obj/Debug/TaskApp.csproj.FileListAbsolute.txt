@@ -1,0 +1,9 @@
+G:\高级班VIP\TaskApp\TaskApp\bin\Debug\TaskApp.exe.config
+G:\高级班VIP\TaskApp\TaskApp\bin\Debug\TaskApp.exe
+G:\高级班VIP\TaskApp\TaskApp\bin\Debug\TaskApp.pdb
+G:\高级班VIP\TaskApp\TaskApp\obj\Debug\TaskApp.Form1.resources
+G:\高级班VIP\TaskApp\TaskApp\obj\Debug\TaskApp.Properties.Resources.resources
+G:\高级班VIP\TaskApp\TaskApp\obj\Debug\TaskApp.csproj.GenerateResource.cache
+G:\高级班VIP\TaskApp\TaskApp\obj\Debug\TaskApp.csproj.CoreCompileInputs.cache
+G:\高级班VIP\TaskApp\TaskApp\obj\Debug\TaskApp.exe
+G:\高级班VIP\TaskApp\TaskApp\obj\Debug\TaskApp.pdb
